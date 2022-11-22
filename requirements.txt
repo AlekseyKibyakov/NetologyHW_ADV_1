@@ -1,0 +1,4 @@
+Jinja2==3.1.2
+jinja2-time==0.2.0
+datetime
+arrow==1.2.3
